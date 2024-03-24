@@ -22,9 +22,9 @@ phone:              00-00-00-00
 email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
-background_image:   /images/dark.jpg
+background_image:   /images/pepe.png
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
-slapform_thankyou_page: /thank-you
+slapform_thankyou_page: /danke
 
 defaults:
 - scope:
