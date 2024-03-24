@@ -1,8 +1,8 @@
 # Site
-title:              Massively
+title:              MrLemah
 bio:                'Hell Naw!'
 description:        "Hell Naw!"
-locale:             en_US
+locale:             en_FI
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -17,8 +17,8 @@ instagram:          default
 github:             default
 
 # personal
-location:           Vaasa, F1
-phone:              0000
+location:           Vaasa, FI
+phone:              00-00-00-00
 email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
