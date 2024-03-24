@@ -4,7 +4,6 @@ title:  "Damn boi"
 date:   2017-10-31
 excerpt: "Placeholder"
 image: "/images/pic02.jpg"
-image: "/images/pic02.jpg"
 ---
 
 ## How to Use This Theme
